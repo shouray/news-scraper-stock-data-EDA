@@ -6,7 +6,7 @@ This project demonstrates:
 * Extraction of titles, tickers, sources, and news links
 * Integration with real stock price data (using yfinance)
 * Exploratory Data Analysis (EDA) and visualization of the news and market data
-
+<img width="899" height="443" alt="proj1EDA" src="https://github.com/user-attachments/assets/248123a6-7489-49ae-be6e-8ef81b7c46e3" />
 ---
 Step-by-Step Workflow
 
@@ -66,4 +66,6 @@ Jupyter or script file for EDA, visualization, and insights generation.
 Entry point; may call the data collection, analysis, or serve as a runner script for the project.
 
 ---
+
+
 
