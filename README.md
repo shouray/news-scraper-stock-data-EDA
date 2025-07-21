@@ -1,7 +1,7 @@
 # news-scraper-stock-data-EDA
 
 This project demonstrates:
-
+https://news-scraper-stock-data-eda-m7kszm926fmjw39ucepxn.streamlit.app/
 * Web scraping of financial news from Yahoo Finance
 * Extraction of titles, tickers, sources, and news links
 * Integration with real stock price data (using yfinance)
