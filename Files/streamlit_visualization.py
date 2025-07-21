@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-import matplotlib.pyplot as plt
 
 # Load data
 df = pd.read_csv('data/raw/stock_data.csv', parse_dates=['Date'])
