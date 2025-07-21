@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 
 # Load data
-df = pd.read_csv('/Users/shouraykumra/Documents/GitHub/news-scraper-stock-data-EDA/Data/Raw/stock_data.csv', parse_dates=['Date'])
+df = pd.read_csv('stock_data.csv', parse_dates=['Date'])
 df.set_index('Date', inplace=True)
 # print('loaded data')
 
