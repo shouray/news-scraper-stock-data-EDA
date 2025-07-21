@@ -3,6 +3,7 @@ import pandas as pd
 import json
 from collections import Counter
 import matplotlib.pyplot as plt
+import streamlit as st
 # Load your CSV file
 df = pd.read_csv('data/raw/stock_data.csv', parse_dates=['Date'])
 df.set_index('Date', inplace=True)
