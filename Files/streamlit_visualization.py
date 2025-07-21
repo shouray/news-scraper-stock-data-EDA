@@ -5,6 +5,7 @@ import matplotlib.pyplot as plt
 # Load data
 df = pd.read_csv('data/raw/stock_data.csv', parse_dates=['Date'])
 df.set_index('Date', inplace=True)
+# print('loaded data')
 
 # Sidebar
 st.sidebar.title("Yahoo Finance News & Stock Explorer")
